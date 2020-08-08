@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToornDisk</string>
+    <string name="tracks_title">Tracks</string>
+    <string name="artists_title">Artists</string>
+    <string name="albums_title">Albums</string>
+    <string name="files_title">Files</string>
+    <string name="play_button_text">Play</string>
+    <string name="pause_button_text">Pause</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="various_artists">Various artists</string>
+    <string name="unknown_album">Unknown album</string>
+    <string name="permission_text">This application needs access to external storage to function properly</string>
+    <string name="permission_button_text">Grant permission</string>
+    <string name="artwork_image_text">Artwork image</string>
+    <string name="action_settings">Settings</string>
+</resources>
